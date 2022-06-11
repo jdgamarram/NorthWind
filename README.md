@@ -6,4 +6,5 @@ Northwind Inc. es una gran empresa que revende comida y bebida exótica. Actualm
 ![image](https://comidasperuanas.pe/wp-content/uploads/2022/04/Masato-de-la-Selva-500x500.jpg)
 Versión | Autor | Fecha |
 --------|-------|-------|
-1.0 | DGM | 11/06/22 |
+1.0 | DGM | 10/06/22 |
+1.1 | HMC | 11/06/22 |
